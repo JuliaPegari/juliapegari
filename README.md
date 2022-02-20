@@ -14,7 +14,7 @@ Front-end Developer
   <p align="left"> 
 - 🎓 &nbsp; Bachelor in Information Systems</p>
  <p align="left"> 
-- 🌱 &nbsp; Learning more about Front-End and Design.</p>
+- 🌱 &nbsp; Learning more about NextJS e Design.</p>
  <p align="left"> 
 - 🎮 &nbsp; In love with games. </p>
 
