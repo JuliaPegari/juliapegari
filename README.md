@@ -52,6 +52,11 @@ A simple student who is looking for more knowledge. </p>
 </h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/júlia-pegari/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  </a>
   <a href="https://www.instagram.com/juliapegari/">
     <img
       align="center"
@@ -68,11 +73,6 @@ A simple student who is looking for more knowledge. </p>
     <img
       align="center"
       src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/júlia-pegari/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </p>
 
