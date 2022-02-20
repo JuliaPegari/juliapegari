@@ -77,6 +77,19 @@
   </a>
 </p>
 
-[![JuliaPegari](https://github-readme-stats.vercel.app/api?username=JuliaPegari&theme=synthwave)](https://github.com/JuliaPegari/)
-
-[![JuliaPegari](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPegari&hide=html&layout=compact&theme=synthwave)](https://github.com/JuliaPegari/)
+<p align="center">
+  <a href="https://github.com/JuliaPegari">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=JuliaPegari&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave"
+    />
+  </a>
+  <a href="https://github.com/JuliaPegari">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPegari&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=synthwave"
+    />
+  </a>
+</p>
