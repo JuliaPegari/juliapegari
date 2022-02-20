@@ -21,7 +21,7 @@ A simple student who is looking for more knowledge. </p>
 
 ## 🦄 Languages:
 
-  <p align="center">
+  <p align="left">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
