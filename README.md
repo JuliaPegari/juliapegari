@@ -5,7 +5,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-A simple student who is looking for more knowledge. </p>
+Front-end Developer | JavaScript | ReactJS
+ </p>
 <p align="left"> 
 - 🖋️ &nbsp; 23 years.</p>
 <p align="left"> 
