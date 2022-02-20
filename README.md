@@ -7,6 +7,8 @@
 <p align="left"> 
 A simple student who is looking for more knowledge. </p>
 <p align="left"> 
+- 🖋️ &nbsp; 23 years.</p>
+<p align="left"> 
 - 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
 - 🎓 &nbsp; Bachelor in Information Systems</p>
