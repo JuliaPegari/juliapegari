@@ -12,7 +12,7 @@ Front-end Developer
 <p align="left"> 
 - 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
-- 🎓 &nbsp; Bachelor in Information Systems</p>
+- 🎓 &nbsp; Bachelor in Information Systems.</p>
  <p align="left"> 
 - 🌱 &nbsp; Learning more about NextJS e Design.</p>
  <p align="left"> 
