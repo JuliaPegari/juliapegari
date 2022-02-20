@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá meu nome é Júlia 💜</h1></img>
+<h1 align="center">Olá meu nome é Júlia 💜 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
 
 <h3 align="center">Sobre mim:</h3>
 
@@ -77,6 +77,8 @@
   </a>
 </p>
 
+ ---
+  
 <p align="center">
   <a href="https://github.com/JuliaPegari">
     <img
