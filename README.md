@@ -47,9 +47,9 @@ A simple student who is looking for more knowledge. </p>
 
 ---
 
-<p align="left">
+<h2 align="center">
   💌 Onde me encontrar:
-</p>
+</h2>
 
 <p align="center">
   <a href="https://instagram.com/seu-usuario/">
