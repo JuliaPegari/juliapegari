@@ -1,22 +1,23 @@
-<h1 align="center">Olá meu nome é Júlia 💜 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
+<h1 align="center">Hi my name is Júlia 💜 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">About me:</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 A simple student who is looking for more knowledge. </p>
 <p align="left"> 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+- 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
-- 🎓 &nbsp; Bacharelada em Sistemas de Informação.</p>
+- 🎓 &nbsp; Bachelor in Information Systems</p>
  <p align="left"> 
-- 🌱 &nbsp; Aprendendo mais sobre Front-End.</p>
-
+- 🌱 &nbsp; Learning more about Front-End and Design.</p>
+ <p align="left"> 
+- 🎮 &nbsp; In love with games. </p>
 
 ----
 
-## 🦄 Linguagens:
+## 🦄 Languages:
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -48,7 +49,7 @@ A simple student who is looking for more knowledge. </p>
 ---
 
 <h2 align="center">
-  💌 Onde me encontrar:
+  💌 Where to find me:
 </h2>
 
 <p align="center">
@@ -82,14 +83,14 @@ A simple student who is looking for more knowledge. </p>
   <a href="https://github.com/JuliaPegari">
     <img
       align="center"
-      height="150em"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api?username=JuliaPegari&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave"
     />
   </a>
   <a href="https://github.com/JuliaPegari">
     <img
       align="center"
-      height="150em"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPegari&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=synthwave"
     />
   </a>
