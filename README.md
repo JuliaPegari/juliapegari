@@ -52,33 +52,27 @@ A simple student who is looking for more knowledge. </p>
 </h2>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://www.instagram.com/juliapegari/">
     <img
       align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/juballou">
     <img
       align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://steamcommunity.com/id/juballou/">
     <img
       align="center"
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+      src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/júlia-pegari/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
-    />
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </p>
 
