@@ -5,10 +5,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Bacharelada em Sistemas de Informação.
-- 🌱 &nbsp; Aprendendo mais sobre Front-End.
-</p>
+A simple student who is looking for more knowledge. </p>
+<p align="left"> 
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+  <p align="left"> 
+- 🎓 &nbsp; Bacharelada em Sistemas de Informação.</p>
+ <p align="left"> 
+- 🌱 &nbsp; Aprendendo mais sobre Front-End.</p>
+
 
 ----
 
