@@ -8,7 +8,7 @@
 Front-end Developer
  </p>
 <p align="left"> 
-- 🖋️ &nbsp; 23 years.</p>
+- 🖋️ &nbsp; 24 years.</p>
 <p align="left"> 
 - 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
