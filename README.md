@@ -14,7 +14,7 @@ Web Developer
   <p align="left"> 
 - 🎓 &nbsp; Bachelor in Information Systems.</p>
  <p align="left"> 
-- 🌱 &nbsp; Learning more about NextJS e Design.</p>
+- 🌱 &nbsp; Learning more about Java and Angular.</p>
  <p align="left"> 
 - 🎮 &nbsp; In love with games. </p>
 
