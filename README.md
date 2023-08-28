@@ -35,8 +35,8 @@ Web Developer
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+   <a href="https://www.java.com/pt-BR/">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="nextjs" width="40" height="40"/>
    </a>
    <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -44,10 +44,18 @@ Web Developer
    <a href="https://www.electronjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
    </a>
-   <a href="https://git-scm.com/">
+     <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://angular.io">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="git" width="40" height="40"/>
+   </a>
+      <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
+
+
 
 ---
 
