@@ -8,13 +8,11 @@
 Web Developer
  </p>
 <p align="left"> 
-- 🖋️ &nbsp; 25 years.</p>
+- 🖋️ &nbsp; 26 years.</p>
 <p align="left"> 
 - 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
 - 🎓 &nbsp; Bachelor in Information Systems.</p>
- <p align="left"> 
-- 🌱 &nbsp; Learning more about Java and Angular.</p>
  <p align="left"> 
 - 🎮 &nbsp; In love with games. </p>
 
