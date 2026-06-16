@@ -8,7 +8,7 @@
 Web Developer
  </p>
 <p align="left"> 
-- 🖋️ &nbsp; 26 years.</p>
+- 🖋️ &nbsp; 27 years.</p>
 <p align="left"> 
 - 🤔 &nbsp; Exploring new technologies and software solutions.</p>
   <p align="left"> 
